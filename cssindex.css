@@ -1,0 +1,32 @@
+*{
+    margin:0vw 0vh;
+    padding:0w 0vh;
+}
+body{
+    height:100vh;
+    width:100vw;
+    background:url('./background1.jpeg');
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+h1{
+    color:blue;
+    text-align: center;
+    background:yellow;
+    font-size:3rem;
+}
+a{
+    display:block;
+    text-align: center;
+    font-size:3rem;
+    text-decoration:none;
+    color:blueviolet;
+    font-weight:bold;
+}
+a:hover{
+    color:green;
+}
+div{
+    margin-top:25vh;
+    background-color:rgba(255,255,0,0.7);
+}
