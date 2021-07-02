@@ -1,0 +1,18 @@
+body{
+    background-color:salmon;
+}
+p{
+    font-size:1.5rem;
+}
+button{
+    height:3rem;
+    width:7.5rem;
+    background-color:honeydew;
+    font-size:1.5rem;
+}
+a{
+    text-decoration: none;
+    color:indigo;
+    font-size: 1.5rem;
+    font-weight:bold;
+}
